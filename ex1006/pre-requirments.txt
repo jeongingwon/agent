@@ -1,0 +1,8 @@
+ipykernel
+pandas
+python-dotenv
+langchain-openai
+langgraph
+grandalf
+langchain-tavily
+tools
